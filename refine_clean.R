@@ -1,5 +1,7 @@
 # This is the first data wrangling exercise in the Springboard Curriculum
 
+# Test 1,2,3
+
 library(tidyverse)
 
 refine_original <- read_csv("C:\\Users\\bliss\\Desktop\\Practice\\refine_original.csv")
