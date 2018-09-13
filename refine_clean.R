@@ -191,12 +191,12 @@ refine_original_1 %>% group_by(company) %>% summarise(no_companies = n())
 
 refine_original_1 %>% select(company_philips, company_akzo,
                              company_unilever, company_van_houten) %>%
-  summarise_each(funs(sum))
+  summarise_all(funs(sum))
 
 # Double check my binary assignments for product_code
 
 refine_original_1 %>% group_by(product_code) %>% summarise(no_codes = n())
 
 refine_original_1 %>% select(product_smartphone:product_tablet) %>%
-  summarise_each(funs(sum))
+  summarise_all(funs(sum))
 
