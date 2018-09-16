@@ -200,3 +200,6 @@ refine_original_1 %>% group_by(product_code) %>% summarise(no_codes = n())
 refine_original_1 %>% select(product_smartphone:product_tablet) %>%
   summarise_all(funs(sum))
 
+write_csv(x = refine_original_1, path = 
+            "C:\\Users\\bliss\\Desktop\\Practice\\Done\\refine_original_1.csv",
+          col_names = TRUE)

@@ -1,5 +1,7 @@
 # Exercises
 
-## The following exercises are from the Data Wrangling module:  
+## The following .R files are from Module 3 Data Wrangling:
 
-* refine_original / refine_clean
+* Exercise 1: Basic Data Manipulation (refine_clean)
+
+* Exercise 2: Dealing with missing values (titanic)
