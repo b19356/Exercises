@@ -4,7 +4,7 @@
 
 * Exercise 1: Basic Data Manipulation (refine_clean.R and refine_original_1.csv)
 
-* Exercise 2: Dealing with missing values (titanic.R and final titanic1.csv)
+* Exercise 2: Dealing with missing values (titanic.R and final titanic_1.csv)
 
 ## The following .R files are from Module 4 Exploratory Data Analysis:
 
