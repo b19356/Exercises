@@ -11,3 +11,7 @@
 * Exercise 1: ggplot2 Part 1 (Titanic2.R)
 
 * Exercise 2: ggplot2 Part 2 (CHIS.R)
+
+## The following .R files are from Module 7 Linear and Logistic Regression:
+
+* Exercise 1: Project: Linear Regression Mini-Project (BC_Linear_Regression)
