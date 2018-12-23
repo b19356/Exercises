@@ -15,3 +15,4 @@
 ## The following .R files are from Module 7 Linear and Logistic Regression:
 
 * Exercise 1: Project: Linear Regression Mini-Project (BC_Linear_Regression)
+* Exercise 2: Project: Logistic Regression Mini-Project (logistic_regression)
